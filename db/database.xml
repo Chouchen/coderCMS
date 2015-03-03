@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <table name="tools" autoincrement="true" aivalue="2">
+    <item id="1">
+      <link>http://gskinner.com/RegExr/</link>
+      <text>Testeur de regex</text>
+    </item>
+    <item id="2">
+      <link>http://www.pdfjoin.com/</link>
+      <text>Fusion de PDF</text>
+    </item>
+  </table>
+  <table name="projects" autoincrement="true" aivalue="0">
+  </table>
+  <table name="snippets" autoincrement="true" aivalue="0">
+  </table>
+</Database>

@@ -1,0 +1,15 @@
+input[type=text], input[type=search], input[type=email], input[type=password]{
+	background:#EEE;
+	float:left;
+	margin: 0.7em 0.5em 0.7em 0;
+	border:1px solid #CCC;
+	padding: 2px 7px;
+	font-family:'Droid Serif', Georgia, serif;
+	width:385px;
+	height:20px;
+}
+input[type=text]:hover, input[type=search]:hover, input[type=email]:hover, input[type=password]:hover{
+	border:1px solid #000;
+}
+footer{text-align:center;}
+h3{background-color:#FF5E99; padding:5px; color:#FFF;}
